@@ -1,0 +1,12 @@
+<svg width="640" height="420" viewBox="0 0 640 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Llavero foto</title>
+  <desc id="desc">Ilustracion vectorial de llavero con fotografia</desc>
+  <rect width="640" height="420" rx="28" fill="#f3eee8"/>
+  <circle cx="170" cy="210" r="58" fill="none" stroke="#15222a" stroke-width="16"/>
+  <rect x="210" y="192" width="92" height="36" rx="18" fill="#15222a"/>
+  <rect x="280" y="90" width="250" height="240" rx="24" fill="#ffffff" stroke="#15222a" stroke-width="10"/>
+  <rect x="306" y="116" width="198" height="136" rx="14" fill="#d9f0ee"/>
+  <circle cx="360" cy="162" r="24" fill="#22b3a7"/>
+  <path d="M322 238l52-56 40 40 30-32 52 48H322z" fill="#0f766e"/>
+  <rect x="320" y="272" width="170" height="24" rx="12" fill="#15222a" opacity="0.15"/>
+</svg>
